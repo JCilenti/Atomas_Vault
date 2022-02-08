@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "e921afaa30ccfe00",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ba7f289edb610c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Raspberry Pi Ideas/OwnCloud Server/Brainstorming.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7942dccb12bc24df",
+    "type": "split",
+    "children": [
+      {
+        "id": "a78af7599ab31775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d508fec5cb4b90a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "57ef6cb1b00fb22b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "772bc7d9d39ac48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "10a1dc46827954b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2815eda1419f300",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Raspberry Pi Ideas/OwnCloud Server/Brainstorming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "3ba7f289edb610c3",
+  "lastOpenFiles": [
+    "Raspberry Pi Ideas/OwnCloud Server/Brainstorming.md",
+    "Raspberry Pi Ideas/Blood Test HiPerAth/Brainstorming.md",
+    "Raspberry Pi Ideas/Renal Scanner/Electrolyte panel.md",
+    "Raspberry Pi Ideas/Renal Scanner/rpi_renal.md",
+    "Raspberry Pi Ideas/Renal Scanner/Hardware.md",
+    "Raspberry Pi Ideas/Renal Scanner/Comprehensive Metabolic Panel.md",
+    "Capstone AY2022-1/Suricata.md",
+    "Capstone AY2022-1/Tasks.md",
+    "Capstone AY2022-1/software.md",
+    "Capstone AY2022-1/Security Onion.md"
+  ]
+}

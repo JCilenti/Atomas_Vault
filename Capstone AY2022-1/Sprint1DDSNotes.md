@@ -1,0 +1,24 @@
+**Notes will be in a Q/A Format**
+
+- What version of the software for the DDS kit do we have? How do we check the verison number? When does this version expire? How do we acquire an updated license if we need to? 
+	- MAJ Sherburne is sending out an execuatble for the machine that will run diagnostics and return information we need going forward. 
+- What/Who is the NERD? 
+	- NERD stands for Network Engineering Research Development
+- Do we want to do passive or active monitoring of the network?
+	- We will most likely need to do a combination of the two, but most recon will be done passively.
+- We must change the default credentials on the device and make sure there are no easy access mediums for an attacker. How about credentials on software?
+	- Never connect the kit to a network with default user names and passwords
+- How much traffic can the DDS kit hold? 
+	- 3.2 gbps of saturated traffic. What is saturated traffic? 
+- EVERYTHING will look malicious to us in the beginning. We cannot let ourselves go down rabbit holes while monitoring
+- We must setup dashboards for the kit so we have information at a glance
+	- We should really only be looking at metadata for the traffic 
+		- Who (IP)? Where (Destination)? Length of connection?
+- Where should the sensors (nodes) be connected in the network?
+	- The sensors should be connected to the core switches in the network. We must also find where we want to put the network tap. 
+- There are many pieces of external [[software]] we will need to be familiar with. 
+- The hardware is going to send data to software which will be saved as pcap files and excel documents
+- We have been approved to use securityonion v2 on the kit
+- Logs from the kit --> Security Information and Event Management (SIEM)
+- What is the difference between cybersecurity and defensive cyber operations? 
+	- Cyber security is Threat Agnostic, DCO looks for threats. 
