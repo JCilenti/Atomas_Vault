@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Raspberry Pi Ideas/OwnCloud Server/Brainstorming.md",
+            "file": "Test.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raspberry Pi Ideas/OwnCloud Server/Brainstorming.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "3ba7f289edb610c3",
   "lastOpenFiles": [
+    "Test.md",
     "Raspberry Pi Ideas/OwnCloud Server/Brainstorming.md",
     "Raspberry Pi Ideas/Blood Test HiPerAth/Brainstorming.md",
     "Raspberry Pi Ideas/Renal Scanner/Electrolyte panel.md",
@@ -95,7 +96,6 @@
     "Raspberry Pi Ideas/Renal Scanner/Comprehensive Metabolic Panel.md",
     "Capstone AY2022-1/Suricata.md",
     "Capstone AY2022-1/Tasks.md",
-    "Capstone AY2022-1/software.md",
-    "Capstone AY2022-1/Security Onion.md"
+    "Capstone AY2022-1/software.md"
   ]
 }
