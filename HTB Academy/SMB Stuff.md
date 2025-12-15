@@ -1,0 +1,5 @@
+- You can interact with SMB shares using the smbclient program 
+- We can use the -L flag to get a list of available shares on a host and the -N flag to suppress the password prompt. The command will look like this: ```smbclient -N -L \\\\<ipaddress>```
+- To attempt to connect to a share, such as the *users* share, we can use the command: ```smbclient \\\\<ipaddress>\\users```
+- If we want to specify a user to login to SMB as, we can use the -U flag. The command will look like this: ```smbclient -U bob \\\\<ipaddress>\\users```
+- The GET command is to used to download a file to the local machine

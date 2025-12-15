@@ -1,0 +1,7 @@
+- SNMP versions 1 and 2c have their access controlled by a plaintext community string. ***If we know the name, we can gain access to it***
+- An example SNMP scan that takes advantage of version 2c is: ```snmpwalk -v 2c -c public <ipaddress> 1.3.6.1.2.1.1.5.0```
+	- the ```-v 2c``` specifies the version 2c
+	- ```-c public``` specifies the community string, which is *public* by default
+	- ```1.3.6.1.2.1.1.5.0``` is the Object Identifier (OID) being queried, which is the hostname of the device. 
+- We can also use the command ```snmpwalk -v 2c -c public <ipaddress>``` with the *private* community string
+- The tool *onesixtyone* can be used to brute force community strings using dictionary files. The command would look like: ```onesixtyone -c dict.txt <ipaddress>``` 
